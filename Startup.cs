@@ -9,7 +9,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Identity.Web;
 using Microsoft.Identity.Web.UI;
-using System;
 using net5backendwithidentityandADandGroups.Infrastructure;
 using net5backendwithidentityandADandGroups.Services;
 
